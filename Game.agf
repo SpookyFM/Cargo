@@ -5379,7 +5379,7 @@ See KeyboardMovement.txt for details.
                 <FileLastModifiedDate>2019-03-09 14:21:16Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
-                <ScriptName>aSpaceshipStart</ScriptName>
+                <ScriptName>aSpaceShipStart</ScriptName>
                 <SourceFileName>C:\Users\Florian\Downloads\256268__jmayoff__space-ship-taking-off.wav</SourceFileName>
                 <Index>29</Index>
                 <Type>3</Type>
