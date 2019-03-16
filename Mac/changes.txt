@@ -1,0 +1,8 @@
+AGS for Mac OS X Runtime
+Revision History
+
+3.2.1 Alpha 1 (May 22, 2011)
+ - Code upgrades to Steve McCrea's changes to make the Mac build work again
+ - Save games are stored in ~/Application Support/<Game Name>/
+ - Disabled plug-in support (code needs to be brought up to date)
+ - Disabled CD audio support (for now)
