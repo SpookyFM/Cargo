@@ -1,0 +1,16 @@
+Sources for the sounds used in the game:
+aDoorOpen: https://freesound.org/people/H2x/sounds/415544/
+aIntro: https://freesound.org/people/Wakerone/sounds/393858/
+aAlienAppear: https://freesound.org/people/martian/sounds/178890/
+aForceField: https://freesound.org/people/Noizemaker/sounds/23216/
+aBox: https://freesound.org/people/mcpable/sounds/131931/
+aCharge: https://freesound.org/people/Sclolex/sounds/210878/
+aAlert: https://freesound.org/people/fisch12345/sounds/325113/
+aPDA: https://freesound.org/people/GameAudio/sounds/220181/
+aResidueScanner: https://freesound.org/people/Zarkonnen/sounds/168885/
+aLockerOpen: https://freesound.org/people/shnur_/sounds/400113/
+aKeycard: https://freesound.org/people/balloonhead/sounds/443446/
+aWarning: https://freesound.org/people/MichaelAtOz/sounds/427961/
+aOutro: https://opengameart.org/content/oves-essential-game-audio-pack-collection-160-files-updated
+aSpaceshipStart: https://freesound.org/people/jmayoff/sounds/256268/
+aPickup: https://freesound.org/people/trullilulli/sounds/422651/
